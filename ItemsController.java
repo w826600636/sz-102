@@ -26,9 +26,5 @@ public class ItemsController {
     @Autowired
     private ItemsService itemsService;
 
-    @GetMapping("list")// GetMapping,PutMapping, PostMapping, DeleteMapping RestFul用得多
-    //@RequestMapping(value = "list", method = RequestMethod.GET)
-    public String findAll(Model model){
-      
-    }
+ 
 }
