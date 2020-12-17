@@ -25,6 +25,8 @@ public class ItemsController {
 
     @Autowired
     private ItemsService itemsService;
-
+private ItemsService itemsService;
+ private ItemsService itemsService;
  
+ private ItemsService itemsService;
 }
